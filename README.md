@@ -14,7 +14,7 @@
 <br/>
 <div align="center">
   <a href="https://github.com/Annfranco">
-    <img width="48%" style="vertical-align: top; position: relative; top: -10px;" src="https://github-readme-stats.vercel.app/api?username=Annfranco&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" alt="Rayanne Franco github stats" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Annfranco&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" alt="Rayanne Franco github stats" />
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annfranco&layout=compact&hide_border=true&title_color=6474B9&text_color=937CD5&bg_color=0a0c10&thme=transparent" />
   </a>
 </div>
